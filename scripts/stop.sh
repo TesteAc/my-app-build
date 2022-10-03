@@ -1,4 +1,4 @@
 #!/bin/bash
-nomeApp="helloR-CD"
+nomeApp="HelloReact"
 
 sudo supervisorctl stop $nomeApp
