@@ -1,6 +1,6 @@
 #!/bin/bash
 nomeApp="hrapp"
-sudo cd /root/hrapp
+cd /home/ubuntu/hrapp
 npm install
 
 sudo supervisord
