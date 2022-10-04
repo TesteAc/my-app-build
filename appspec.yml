@@ -2,7 +2,7 @@ version: 0.0
 os: linux
 files:
   - source: /
-    destination: /myapp
+    destination: /root/hrapp
 hooks:
   ApplicationStop:
     - location: scripts/stop.sh
