@@ -1,6 +1,6 @@
 #!/bin/bash
-nomeApp="HelloReact"
-cd /appdir
+nomeApp="hrapp"
+sudo cd /root/hrapp
 npm install
 
 sudo supervisord
