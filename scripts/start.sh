@@ -1,7 +1,7 @@
 #!/bin/bash
 nomeApp="hrapp"
 cd /hrapp
-sudo npm install
+npm install
 
 sudo supervisord
 sudo supervisorctl start $nomeApp
