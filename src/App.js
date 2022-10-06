@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          GA3!
+          GA4!
         </p>
         <a
           className="App-link"
